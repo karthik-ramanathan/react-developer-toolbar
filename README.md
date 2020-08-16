@@ -1,6 +1,6 @@
 # React Developer Tools
 
-### React atomic compoonent for developers to show a floating toolbar and customisable children elements. 
+### React atomic component for developers to show a floating toolbar and customisable children elements. 
 
 ##### double click the icon to activate the menu or click an dedicated menu icon after hover. 
 
